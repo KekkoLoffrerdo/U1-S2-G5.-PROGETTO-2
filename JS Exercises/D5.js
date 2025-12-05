@@ -95,7 +95,7 @@ const newCar = {
   brand: "Audi",
   model: "RS-3",
   color: "black",
-  trims: ["style", "allure", "r-line"],
+  trims: ["style", "allure", "rs-line"],
 };
 
 cars.push(newCar);
