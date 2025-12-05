@@ -1,0 +1,12 @@
+body {
+  margin: 2vw, 2vw;
+}
+.top-bar {
+  background-color: #222f3f;
+  padding: 10px 24px;
+  height: 50px;
+}
+.top-bar-logo {
+  float: left;
+  height: 32px;
+}

@@ -1,0 +1,127 @@
+header {
+  background-color: #222f3f;
+}
+.top-bar {
+  padding: 10px 24px;
+  color: white;
+  height: 50px;
+}
+
+body {
+  background-color: #d2d6d7;
+}
+
+.top-bar-logo {
+  text-align: left;
+  margin-bottom: 20px;
+}
+.top-bar-logo img {
+  height: 32px;
+}
+.top-bar-nav {
+  background-color: #364757;
+  font-size: large;
+  padding: 10px;
+  line-break: auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.top-bar-nav a {
+  color: white;
+  text-decoration: none;
+  padding: 5px;
+}
+
+.gift-card-bar {
+  background-color: #f56600;
+  background-color: #ff6201;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: large;
+  padding: 5px;
+  color: white;
+}
+.banner-gift {
+  background-image: url(../assets/images/bg-image.png);
+  background-color: #2f6e60;
+  background-size: cover;
+  height: 90px;
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: x-large;
+  color: white;
+}
+.banner-content h1 {
+  font-size: 32px;
+  margin-bottom: 6px;
+}
+.banner-content p {
+  font-size: 14px;
+}
+.perfect-gift {
+  padding: 20px 24px 12px;
+}
+.gift {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+}
+.gift-link {
+  margin-left: 6px;
+  color: #007185;
+  font-size: 13px;
+  text-decoration: none;
+}
+.gift-link:hover {
+  text-decoration: underline;
+}
+.cards {
+  background-color: white;
+  padding-bottom: 40px;
+  border: solid 1px #dee1e3;
+  line-height: 1.7;
+  border-radius: 4px;
+  text-align: center;
+  margin-bottom: 25px;
+}
+.cards img {
+  display: inline-block;
+  max-width: 22%;
+  width: 100%;
+  height: 500px;
+  object-fit: cover;
+  border-radius: 20px;
+  margin: 20px 20px;
+}
+.gaming img {
+  width: 100%;
+  object-fit: cover;
+}
+.gaming p {
+  text-align: center;
+  font-size: xx-large;
+  margin-bottom: 30px;
+}
+.audio img {
+  width: 100%;
+  object-fit: cover;
+}
+.audio p {
+  text-align: center;
+  font-size: xx-large;
+  margin-bottom: 30px;
+}
+.footer-top {
+  background-color: #364757;
+  text-align: center;
+  font-size: x-large;
+  padding: 14px;
+}
+.low-logo {
+  background-color: #222f3f;
+  text-align: center;
+  padding: 20px 0;
+}
+.page-wrapper {
+  margin: 30px;
+}
